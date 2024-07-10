@@ -1,0 +1,20 @@
+Match 
+
+-Avg run per inns
+-Winning batting/bowling first
+Highest team run 
+filter by Leage/Super8/Knockout
+
+Batting
+Most run 
+Top 5
+Strike rate
+Avg 
+filter by Leage/Super8/Knockout
+
+Bowling
+Most wkt
+Top 5
+Strike rate
+Avg 
+filter by Leage/Super8/Knockout
